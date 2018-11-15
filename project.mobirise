@@ -88,8 +88,10 @@
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "By continuing you agree to our <a href='https://veganescence.github.io/privacy.html'target=\"_blank\">Privacy Policy.</a>",
-    "google-analytics": "",
-    "siteUrl": "undefined"
+    "google-analytics": "<meta name=\"google-site-verification\" content=\"F65_4OTmsKyssplryi47KlcCEzIBiYl8vLU3C3smEeM\" />",
+    "siteUrl": "https://veganescence.github.io",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
