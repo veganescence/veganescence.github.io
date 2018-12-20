@@ -1798,7 +1798,7 @@ body {
   color: #efefef;
 }
 .cid-r9eDROsI4h SPAN {
-  color: #24c70c;
+  color: #1594c0;
 }
 .cid-r9eDROsI4h B {
   color: #24c70c;
@@ -1960,6 +1960,27 @@ body {
 }
 .cid-rc9DoPl6Bg .google-map[data-state="loading"] [data-state-details] {
   display: none;
+}
+.cid-rcJ7CkDLM9 {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rcJ7CkDLM9 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rcJ7CkDLM9 .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rcJ7CkDLM9 .mbr-text {
+  color: #767676;
+}
+.cid-rcJ7CkDLM9 .mbr-text B {
+  color: #1594c0;
 }
 #instagram-feed-block-b .inst__title {
   color: #c1c1c1;
