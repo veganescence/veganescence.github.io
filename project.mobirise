@@ -81,7 +81,7 @@
         "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i"
       }
     ],
-    "uniqCompNum": 15,
+    "uniqCompNum": 17,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/grants-leaf-128x136.png",
@@ -99,7 +99,7 @@
         "main": true,
         "title": "Veganescence home",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<meta name=\"google-site-verification\" content=\"00E-eWG_zrwMbf4WhbQDhJyusgPNL5DQu_lqqVxuyzE\" />",
         "footer_custom": "",
         "html_before": ""
       },
