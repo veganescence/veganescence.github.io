@@ -987,7 +987,7 @@
             },
             "H4": {
               "color": "#cccccc",
-              "text-align": "left"
+              "text-align": "center"
             },
             ".panel-text": {
               "color": "#126e8e"
