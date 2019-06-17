@@ -84,7 +84,7 @@
     "uniqCompNum": 32,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/grants-leaf-128x136.png",
+    "favicon": "@PROJECT_PATH@/assets/images/trans-leaf-logo-128x129.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "By continuing you agree to our <a href='https://veganescence.github.io/privacy.html'target=\"_blank\">Privacy Policy.</a>",
