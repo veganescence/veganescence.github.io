@@ -1196,7 +1196,7 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-rae9L5MYE5 {
-  padding-top: 30px;
+  padding-top: 0px;
   padding-bottom: 30px;
   position: relative;
   background-color: #ffffff;
@@ -1360,39 +1360,6 @@ section.lazy-placeholder:after {
 #instagram-feed-block-b .inst__title {
   color: #767676;
 }
-.cid-r9eQHsbmuJ {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-r9eQHsbmuJ .title {
-  margin-bottom: 2rem;
-}
-.cid-r9eQHsbmuJ .mbr-section-subtitle {
-  color: #126e8e;
-}
-.cid-r9eQHsbmuJ a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-r9eQHsbmuJ a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-r9eQHsbmuJ .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-r9eQHsbmuJ .input-group-btn {
-  display: block;
-  text-align: center;
-}
-.cid-r9eQHsbmuJ LABEL {
-  color: #cccccc;
-}
-.cid-r9eQHsbmuJ H2 {
-  color: #c1c1c1;
-}
 .cid-rFzaSrTEWS {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -1458,14 +1425,6 @@ section.lazy-placeholder:after {
 .cid-rFzaSrTEWS .mbr-section-title {
   color: #c1c1c1;
 }
-.cid-raeEOEmRXW {
-  padding-top: 15px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-raeEOEmRXW .media-container-row .mbr-text {
-  color: #126e8e;
-}
 .cid-rJxAm91S0j {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -1492,6 +1451,14 @@ section.lazy-placeholder:after {
 }
 .cid-rJxAm91S0j LABEL {
   color: #cccccc;
+}
+.cid-raeEOEmRXW {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-raeEOEmRXW .media-container-row .mbr-text {
+  color: #126e8e;
 }
 .cid-r9eDJiPaIM .navbar {
   background: #ffffff;
