@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap);
 
 
 
@@ -41,7 +40,7 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 1.2rem;
   font-display: swap;
 }
@@ -547,7 +546,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 1.2rem;
   font-display: swap;
 }
@@ -1272,7 +1271,7 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-rc9CYqu63I H2 {
-  color: #c1c1c1;
+  color: #cccccc;
 }
 .cid-rcJ7CkDLM9 {
   padding-top: 75px;
@@ -1291,12 +1290,13 @@ section.lazy-placeholder:after {
 }
 .cid-rcJ7CkDLM9 .mbr-text {
   color: #126e8e;
+  text-align: right;
 }
 .cid-rcJ7CkDLM9 .mbr-text B {
   color: #126e8e;
 }
-#instagram-feed-block-b .inst__title {
-  color: #767676;
+.cid-rcJ7CkDLM9 .display-2 {
+  color: #cccccc;
 }
 .cid-rFzaSrTEWS {
   padding-top: 15px;
@@ -1315,8 +1315,8 @@ section.lazy-placeholder:after {
   background: #dd4b39;
   color: #ffffff;
 }
-.cid-rFzaSrTEWS .socicon-bg-vkontakte {
-  background: #5a7fa6;
+.cid-rFzaSrTEWS .socicon-bg-instagram {
+  background: #405DE6;
   color: #ffffff;
 }
 .cid-rFzaSrTEWS .socicon-bg-odnoklassniki {
